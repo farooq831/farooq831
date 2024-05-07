@@ -1,11 +1,9 @@
-[![MasterHead](https://dribbble.com/shots/15637256-coding/attachments/7428659?mode=media)](https://dribbble.com/shots/15637256-coding/attachments/7428659?mode=media)
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Farooq</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-<p align="left"> <img src="URL_FOR_LOGO" alt="farooq831" /> </p>
 
 - 🔭 I’m currently working on **Photography website**
 
