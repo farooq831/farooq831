@@ -2,14 +2,15 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Farooq</h1>
 <img align="center" alt="Coding" height="600" width="800" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"/>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 
-- 🔭 I’m currently working on **Photography website**
+- 🔭  Currently working on GigStream - AI-Powered Real-Time Payment Streaming for Gig Workers
 
 
-- 🌱 I’m currently learning **React**
+
+- 🌱 I’m currently learning **Nextjs**
 
 - 💬 Ask me about **Html,css,Bootstrap , c++ & React**
 
